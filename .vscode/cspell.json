@@ -55,13 +55,15 @@
     "sdk/monitor/monitor-query/review/**/*.md",
     "sdk/search/search-documents/review/**/*.md",
     "sdk/storage/storage-blob/review/**/*.md",
-    "sdk/storage/storage-file-share/review/**/*.md",
-    "sdk/videoanalyzer/video-analyzer-edge/review/**/*.md"
+    "sdk/storage/storage-file-share/review/**/*.md"
   ],
   "words": [
+    "Abgr",
     "adfs",
     "agrifood",
     "AMQP",
+    "argb",
+    "bgra",
     "centralus",
     "CONTOSO",
     "deps",
@@ -71,6 +73,7 @@
     "ECONNRESET",
     "Eloqua",
     "etags",
+    "Grpc",
     "Guids",
     "Hana",
     "IMDS",
@@ -88,6 +91,7 @@
     "npmjs",
     "ODATA",
     "Odbc",
+    "Onvif",
     "perfstress",
     "pnpm",
     "prettierrc",
